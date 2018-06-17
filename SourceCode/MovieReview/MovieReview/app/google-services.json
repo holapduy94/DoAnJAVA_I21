@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336705312340",
+    "firebase_url": "https://moviereview-7e1ec.firebaseio.com",
+    "project_id": "moviereview-7e1ec",
+    "storage_bucket": "moviereview-7e1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336705312340:android:c1b7f73182bb1d28",
+        "android_client_info": {
+          "package_name": "nhom7.uit.com.moviereview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336705312340-crbmt1fdgvgh6io59470rpndkep5kn4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nhom7.uit.com.moviereview",
+            "certificate_hash": "a010c2e6d39b2a90334767c4f532184399428b7d"
+          }
+        },
+        {
+          "client_id": "336705312340-pnm8db2ogueh1vevip8alhod4e2rnhtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLcAhMmxTQM149ISTTvK6vKJRlHH2tzWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336705312340-pnm8db2ogueh1vevip8alhod4e2rnhtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

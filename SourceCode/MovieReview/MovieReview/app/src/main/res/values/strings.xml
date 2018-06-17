@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MovieReview</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">543928412609121</string>
+    <string name="fb_login_protocol_scheme">fb543928412609121</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="overview">Tổng quan</string>
+    <string name="date">Khởi chiếu</string>
+    <string name="runtime">Thời lượng</string>
+    <string name="rating">Đánh giá</string>
+    <string name="votes">Bình chọn</string>
+    <string name="describe">Hyun-Ji studied for her 19 years before she died in an accident. She is now a ghost and has wandered around the world for several years. Hyun-Ji then meets exorcist Park Bong-Pal. Hyun-Ji and Bong-Pal listens to various stories from ghosts and sends them to the otherworld.</string>
+    <string name="genre">Thể loại</string>
+    <string name="language">Ngôn ngữ</string>
+
+    <string name="actor">Diễn viên</string>
+    <string name="trailer">Trailer</string>
+    <string name="images_detail">Ảnh</string>
+    <string name="quality">Quality</string>
+
+    <string name="persondetailfragment_birthday">Ngày Sinh :</string>
+    <string name="persondetailfragment_deathday">Ngày Mất :</string>
+    <string name="persondetailfragment_placebirth">Nơi Sinh :</string>
+    <string name="persondetail_biography">Tiểu Sử</string>
+    <string name="persondetail_tvshow">Phim Truyền Hình</string>
+    <string name="persondetail_movie">Phim Khác</string>
+    <string name="persondetail_not_available">Không Tìm Thấy</string>
+
+    <string name="share_description">Bạn cần đăng nhập Facebook để chia sẻ</string>
+    <string name="share_title">Chia sẻ</string>
+
+</resources>

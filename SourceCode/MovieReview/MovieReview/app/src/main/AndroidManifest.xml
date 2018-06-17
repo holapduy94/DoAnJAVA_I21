@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nhom7.uit.com.moviereview">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name=".controller.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".controller.TestActivity" />
+        <activity android:name=".controller.SearchTvShowActivity" />
+        <activity android:name=".controller.SearchMovieActivity" />
+        <activity android:name=".controller.SearchPeopleActivity" />
+        <activity android:name=".controller.DetailsMovieActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name=".controller.ImagesSliderActivity" />
+        <activity android:name=".controller.TrailerMovieActivity" />
+        <activity android:name=".controller.DetailTVShowActivity" />
+        <activity android:name=".controller.CastProfileActivity"></activity>
+        <activity android:name=".controller.ActorPhotoSliderActivity" />
+        <activity android:name=".controller.LoginActivity" />
+        <activity android:name=".controller.CommentActivity" />
+    </application>
+
+</manifest>
